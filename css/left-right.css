@@ -1,0 +1,13 @@
+.warp .left-nav {
+  width: 20%;
+  float: left;
+  height: 100%;
+  background: blue; }
+.warp .content {
+  box-sizing: border-box;
+  width: 80%;
+  float: left;
+  height: 100%;
+  overflow: auto;
+  background: #eee;
+  padding: 10px; }
